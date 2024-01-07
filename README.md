@@ -5,7 +5,9 @@ Pelajari implementasi machine learning pada industri mulai dari computer vision,
 [View](https://www.dicoding.com/academies/185)
 
 ## Submission
-[View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-certificate)
+- [x] [London Temperature Machine Learning using Timeseries](https://github.com/achmadhadikurnia/london-temp-ml-timeseries-dicoding-submission)
+- [x] [Emotion Classification using NLP](https://github.com/achmadhadikurnia/emotion-classification-nlp-dicoding-submission)
+- [x] [Image Classification Model Deployment](https://github.com/achmadhadikurnia/image-classification-model-deployment)
 
 ## Certificate
 [View](https://www.dicoding.com/certificates/JMZVD3OLQZN9)
